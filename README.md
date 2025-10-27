@@ -15,18 +15,18 @@
 * VRAM Usage shown in blue
 * Temperature shown in red
 * Supports multiple GPUs
-* Coded with AI (I'm not learning qml or javascript)
 
 ![Alt text](./preview.jpg)
+
+## Negative Features
+
+* Coded with AI (I'm not learning qml or javascript)
+* Tested only on KDE version 5.24.7
 
 ## Dependencies
 
 * nvidia-smi
 * KDE version 5.24.7
-
-## KDE Version
-
-* Tested only on KDE version 5.24.7
 
 ## Changes
 
