@@ -1,6 +1,6 @@
-# gpuusage
+# gpuusage_kde
 
-## (gpuusage)
+## (gpuusage_kde)
 
 * Description: KDE Widget that monitors NVIDIA GPU usage
 * Copyright: AXISFX LTD
