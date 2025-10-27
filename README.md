@@ -15,6 +15,7 @@
 * VRAM Usage shown in blue
 * Temperature shown in red
 * Supports multiple GPUs
+
 ![Alt text](./preview.jpg)
 
 ## Dependencies
