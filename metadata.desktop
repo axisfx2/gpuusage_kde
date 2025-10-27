@@ -1,0 +1,19 @@
+[Desktop Entry]
+Name=GPU Usage Monitor
+Comment=Shows GPU utilization in blue, VRAM usage in green and temperature in red for NVIDIA GPUs
+Type=Service
+Icon=video-card
+
+X-KDE-ServiceTypes=Plasma/Applet
+X-KDE-PluginInfo-Name=gpuusage_kde
+X-KDE-PluginInfo-Author=Ewan Davidson
+X-KDE-PluginInfo-Email=ewan@axisfx.design
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-License=MIT
+X-KDE-PluginInfo-Category=System Information
+X-KDE-PluginInfo-EnabledByDefault=true
+
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=contents/ui/main.qml
+X-Plasma-ContainmentCategories=panel,desktop
+X-Plasma-NotificationArea=false
