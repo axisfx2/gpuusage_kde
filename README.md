@@ -15,6 +15,7 @@
 * VRAM Usage shown in blue
 * Temperature shown in red
 * Supports multiple GPUs
+* Coded with AI (I'm not learning qml or javascript)
 
 ![Alt text](./preview.jpg)
 
